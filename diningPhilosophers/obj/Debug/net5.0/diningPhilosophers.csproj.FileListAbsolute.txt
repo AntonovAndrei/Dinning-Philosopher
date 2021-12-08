@@ -1,0 +1,16 @@
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\bin\Debug\net5.0\diningPhilosophers.exe
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\bin\Debug\net5.0\diningPhilosophers.deps.json
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\bin\Debug\net5.0\diningPhilosophers.runtimeconfig.json
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\bin\Debug\net5.0\diningPhilosophers.runtimeconfig.dev.json
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\bin\Debug\net5.0\diningPhilosophers.dll
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\bin\Debug\net5.0\ref\diningPhilosophers.dll
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\bin\Debug\net5.0\diningPhilosophers.pdb
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\obj\Debug\net5.0\diningPhilosophers.csproj.AssemblyReference.cache
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\obj\Debug\net5.0\diningPhilosophers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\obj\Debug\net5.0\diningPhilosophers.AssemblyInfoInputs.cache
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\obj\Debug\net5.0\diningPhilosophers.AssemblyInfo.cs
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\obj\Debug\net5.0\diningPhilosophers.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\obj\Debug\net5.0\diningPhilosophers.dll
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\obj\Debug\net5.0\ref\diningPhilosophers.dll
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\obj\Debug\net5.0\diningPhilosophers.pdb
+C:\Users\Андрей\RiderProjects\diningPhilosophers\diningPhilosophers\obj\Debug\net5.0\diningPhilosophers.genruntimeconfig.cache
