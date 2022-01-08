@@ -1,5 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Threading;
+﻿using System.Threading;
 
 namespace diningPhilosophers
 {
@@ -16,6 +15,8 @@ namespace diningPhilosophers
         }
 
         private int hungreCount = 0;
+        
+        //основной метод
         public void Eat()
         {
             while (true)
@@ -26,27 +27,22 @@ namespace diningPhilosophers
                     {
                         ++hungreCount;
                         Thread.Sleep(500);
-                        //ConsoleHelper.WriteToConsole(LeftFork.Number, "в чей то руке");
                     }
                     else
                     {
                         LeftFork.mutexObj.WaitOne();
                         LeftFork.IsFree = false;
-                        //ConsoleHelper.WriteToConsole(Name, $"взял вилку {LeftFork.Number}");
                         if (!RightFork.IsFree)
                         {
-                            //ConsoleHelper.WriteToConsole(RightFork.Number, "в чей то руке");
                             LeftFork.mutexObj.ReleaseMutex();
                             LeftFork.IsFree = true;
                             ++hungreCount;
                             Thread.Sleep(500);
-                            //ConsoleHelper.WriteToConsole(Name, $"положил вилку {LeftFork.Number} обратно на стол");
                         }
                         else
                         {
                             RightFork.mutexObj.WaitOne();
                             RightFork.IsFree = false;
-                            //ConsoleHelper.WriteToConsole(Name, $"взял вилку {RightFork.Number}");
 
                             ConsoleHelper.WriteToConsole(Name, "Начал есть");
                             Thread.Sleep(1000);
